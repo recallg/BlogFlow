@@ -29,9 +29,19 @@
 
 ## 📸 预览
 
-| 首页 | 文章详情 | 创作编辑器 |
-|:---:|:-------:|:---------:|
-| 暗色科幻风文章卡片网格，带动态粒子、毛玻璃搜索栏、用户登录、分页 | 玻璃态文章阅读器，Markdown 渲染，操作按钮 | 双栏 Markdown 编辑器，左侧编辑右侧实时预览 |
+<div align="center">
+  <img src="images/20260429113542.jpg" alt="首页预览" width="80%" style="border-radius: 12px; margin-bottom: 16px;" />
+  <br />
+  <em>首页 — 暗色科幻风文章卡片网格</em>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="images/20260429113643.jpg" alt="创作编辑器预览" width="80%" style="border-radius: 12px; margin-bottom: 16px;" />
+  <br />
+  <em>创作编辑器 — 双栏 Markdown 编辑器，左侧编辑右侧实时预览</em>
+</div>
 
 ---
 
